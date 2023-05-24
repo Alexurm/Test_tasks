@@ -4,6 +4,6 @@
 
 | Название проекта      | Краткое описание проекта               | Навыки и инструменты     |
 | :-------------------- | :---------------------|:---------------------------|
-| [1. Тестовое задание от Magnetto.pro](https://colab.research.google.com/drive/1sXL_iQHxzJNWBSLjmflmR_9qQbYQM7a6#scrollTo=_vlMtqNvUF6E) | Подготовить запрос к базе данных под управлением PostgreSQL для формирования ежедневного отчета по пользователям приложения| `Python` `Pandas` `PostgreSQL`|
+| [1. Тестовое задание от Magnetto.pro](https://colab.research.google.com/github/Alexurm/Test_tasks/blob/main/Test_task_from_Magnetto_pro.ipynb) | Подготовить запрос к базе данных под управлением PostgreSQL для формирования ежедневного отчета по пользователям приложения| `Python` `Pandas` `PostgreSQL`|
 
 Проекты выполнены в Google Colab, поэтому лучше переходить по ссылкам из названия проектов.
